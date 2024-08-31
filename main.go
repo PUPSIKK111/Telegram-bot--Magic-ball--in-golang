@@ -83,3 +83,5 @@ func main() {
 		}
 	}
 }
+//Рикролл для самых внимательных xD
+//Rickroll for the most attentive xD
