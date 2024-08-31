@@ -1,2 +1,2 @@
-В 14 строку в масиве введи имя своего бота, потмоу что он отвечает на твои вопросы только если ты вводишь его ник! Например: (имя бота) идти ли мне сегодня в школу? 
+В 14 строку в масиве введи имя своего бота, потмоу что он отвечает на твои вопросы только если ты вводишь его ник! Например: (имя бота) идти ли мне сегодня в школу?| 
 In line 14 in the array, enter the name of your bot, because it answers your questions only if you enter its nickname! For example: (bot name) should I go to school today?
